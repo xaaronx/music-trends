@@ -1,2 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
+dump_notebook.ipynb
+multivar_data.csv
+neural network based forecasting.ipynb
